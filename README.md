@@ -1,12 +1,14 @@
 # Robert Ssebambulidde
 
-### AI Governance, Safety & Risk Architect · Practice Lead at [SamaBrains](https://samabrains.com/)
+### AI Governance Professional Practitioner | Risk & Responsible AI
+**Practice Lead at [SamaBrains](https://samabrains.com/)**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robert-ssebambulidde/)
 [![Framework: NIST AI RMF 1.0](https://img.shields.io/badge/Framework-NIST%20AI%20RMF%201.0-blue?style=for-the-badge)](https://www.nist.gov/itl/ai-risk-management-framework)
 [![Live Web Suite](https://img.shields.io/badge/Live%20Suite-Cloudflare%20Pages-F38020?style=for-the-badge&logo=cloudflare)](https://ai-impact-assessment-20y.pages.dev)
 [![Practice: SamaBrains](https://img.shields.io/badge/Practice-SamaBrains-purple?style=for-the-badge)](https://samabrains.com/)
 
-I specialize in bridging the gap between high-level AI policy and production engineering. I design and implement audit-ready AI governance frameworks, quantitative TEVV (Test, Evaluation, Verification, and Validation) testing regimes, and automated release gates built on the **NIST AI Risk Management Framework 1.0 (NIST AI 100-1)**.
+I specialize in operationalizing AI governance, safety, and risk management across the enterprise lifecycle. I bridge the gap between regulatory policy and production engineering by designing audit-ready governance architectures, quantitative TEVV (Test, Evaluation, Verification, and Validation) testing regimes, and automated release gates built on the **NIST AI Risk Management Framework 1.0 (NIST AI 100-1)**.
 
 ---
 
@@ -34,6 +36,7 @@ An end-to-end operationalization of the NIST AI RMF covering:
 
 ## Connect & Collaborate
 
+* **LinkedIn:** [linkedin.com/in/robert-ssebambulidde](https://www.linkedin.com/in/robert-ssebambulidde/)
 * **Practice Website:** [samabrains.com](https://samabrains.com/)
 * **Direct Email:** [rssebambulidde@gmail.com](mailto:rssebambulidde@gmail.com)
 * **Location:** Kampala, Uganda
